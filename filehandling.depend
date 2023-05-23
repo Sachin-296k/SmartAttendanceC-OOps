@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670905794 source:c:\users\sozhan\eme\filehandling\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+
